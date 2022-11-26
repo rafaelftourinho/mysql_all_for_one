@@ -54,7 +54,7 @@ Um projeto com o codinome All For One em que teve pratica, todos os conceitos de
 
 ```bash
 # Clone o repositório
-  git clone git@github.com:marlondlacerda/mysql-all-for-one.git
+  git clone git@github.com:rafaelftourinho/mysql_all_for_one.git
 # Entre na pasta do repositório que você acabou de clonar:
   cd mysql-all-for-one
 # Instale as dependências e inicialize o projeto
